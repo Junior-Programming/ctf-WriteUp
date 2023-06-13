@@ -7,10 +7,8 @@ Ahmad Sopyan
 Week 1
 <table>
   <tr>
-    <th>
-      <td>Category</td>
-      <td>Chalange</td>
-    </th>
+      <th>Category</th>
+      <th>Chalange</th>
   </tr>
   <tr>
     <td>Web Exploitation</td>
