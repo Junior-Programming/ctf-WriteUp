@@ -1,6 +1,6 @@
 # Writeup CTF Foresty Hacker Class
 
-Ahmad Sopyan
+Personal Info
 
 
 # List Challange
