@@ -14,4 +14,8 @@ Week 1
     <td>Web Exploitation</td>
     <td>Fortune Cookies</td>
   </tr>
+  <tr>
+    <td>Web Exploitation</td>
+    <td>Sanity Check</td>
+  </tr>
 </table>
