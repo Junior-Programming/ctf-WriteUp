@@ -5,7 +5,11 @@ Ahmad Sopyan
 
 # List Challange
 Week 1
-  <th>
-    <td>Category</td>
-    <td>Chalange</td>
-  </th>
+<table>
+  <tr>
+    <th>
+      <td>Category</td>
+      <td>Chalange</td>
+    </th>
+  </tr>
+</table>
