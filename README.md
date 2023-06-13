@@ -1,6 +1,6 @@
 # Writeup CTF Foresty Hacker Class
 
-Personal Info
+Ini adalah WriteUp Dari soal - soal CTF yang saya selesaikan 
 
 
 # List Challange
