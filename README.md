@@ -12,4 +12,8 @@ Week 1
       <td>Chalange</td>
     </th>
   </tr>
+  <tr>
+    <td>Web Exploitation</td>
+    <td>Fortune Cookies</td>
+  </tr>
 </table>
