@@ -16,6 +16,6 @@ Week 1
   </tr>
   <tr>
     <td>Web Exploitation</td>
-    <td>Sanity Check</td>
+    <td><a href="https://github.com/Junior-Programming/ctf-WriteUp/tree/main/Web%20Exploitation/Sanity%20Check">Sanity Check</a></td>
   </tr>
 </table>
