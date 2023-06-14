@@ -12,7 +12,7 @@ Week 1
   </tr>
   <tr>
     <td>Web Exploitation</td>
-    <td>Fortune Cookies</td>
+    <td><a href="https://github.com/Junior-Programming/ctf-WriteUp/tree/main/Web%20Exploitation/Fortune%20Cookies">Fortune Cookies</a></td>
   </tr>
   <tr>
     <td>Web Exploitation</td>
