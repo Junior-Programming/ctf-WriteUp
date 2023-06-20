@@ -30,7 +30,7 @@ Week 2
   </tr>
   <tr>
     <td>CRYPTOGRAPHY</td>
-    <td><a href="[https://github.com/Junior-Programming/ctf-WriteUp/tree/main/Web%20Exploitation/Fortune%20Cookies](https://github.com/Junior-Programming/ctf-WriteUp/tree/main/CRYPTOGRAPHY/Vigenere)">Vigenere</a></td>
+    <td><a href="https://github.com/Junior-Programming/ctf-WriteUp/tree/main/Web%20Exploitation/Fortune%20Cookies](https://github.com/Junior-Programming/ctf-WriteUp/tree/main/CRYPTOGRAPHY/Vigenere)">Vigenere</a></td>
   </tr>
   <tr>
     <td>Web Exploitation</td>
