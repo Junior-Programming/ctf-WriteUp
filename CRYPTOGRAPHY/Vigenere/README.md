@@ -2,7 +2,7 @@
 
 ### About The Challenge
 Diberikan sebuah gambar 
-<img src="images/vigenere.png">
+<img src="Images/vigenere.png">
 Dan kita diminta untuk menemukan Flagnya dengan menemukan pesan tersembunyi di balik kode diatas
 
 
