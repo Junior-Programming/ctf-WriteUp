@@ -33,7 +33,7 @@ Week 2
     <td><a href="https://github.com/Junior-Programming/ctf-WriteUp/tree/main/CRYPTOGRAPHY/Vigenere">Vigenere</a></td>
   </tr>
   <tr>
-    <td>Web Exploitation</td>
-    <td><a href="https://github.com/Junior-Programming/ctf-WriteUp/tree/main/Web%20Exploitation/Sanity%20Check">Sanity Check</a></td>
+    <td>CRYPTOGRAPHY</td>
+    <td><a href="https://github.com/Junior-Programming/ctf-WriteUp/tree/main/CRYPTOGRAPHY/RSA">RSA</a></td>
   </tr>
 </table>
